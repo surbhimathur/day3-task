@@ -1,0 +1,33 @@
+
+    {
+        "resume":{
+           "name":"Surbhi Mathur",
+           "job-title":"Front end developer",
+           "skills":[
+              "HTML",
+              "CSS",
+              "javascript",
+              "react js"
+           ],
+           "contact":9414008874,
+           "location":"Bangalore",
+           "email-id":"surbhimathur9@gmail.com",
+           "summary":"Ability to translate business requirements into technical solutions. Passionate about designing websites having unique and creative designs. Willing to learn new web designing languages, tools and frameworks. Designed web design samples using HTML5, CSS3, JavaScript, React js. Looking to start the career as an entry-level software engineer with a reputed firm driven by technology",
+           "projects":[
+              "https://surbhimathur.github.io/sample-food-web-design.github.io/",
+              "https://surbhimathur.github.io/foodadda.github.io/",
+              "https://surbhimathur.github.io/slideshow_gallery.github.io/",
+              "https://surbhimathur.github.io/drible.github.io/"
+           ],
+           "education":[
+              {
+                 "Post-graduation":"MCA",
+                 "Graduation":"BCA",
+                 "Senior-secondary":"XII",
+                 "secondary":"X"
+              }
+           ]
+        }
+     }
+
+ 
