@@ -22,7 +22,7 @@ for(var key in employee){
 //for of loop
 console.log("For of loop");
 
-var a=[2,4,6,8,10];
+var a=Object.values(employee);
 for(var val of a){
 console.log(val);
 }
@@ -30,8 +30,7 @@ console.log(val);
 //for each loop
 console.log("For each loop");
 
-const b=[40,20,56,78];
-b.forEach(display);
+a.forEach(display);
 function display(number){ 
  console.log(number);
 }
